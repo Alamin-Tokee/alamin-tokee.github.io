@@ -37,4 +37,6 @@ plugins:
 collections:
   - publications
   - news
+  - certifications
+  - projects
   - showcase
