@@ -20,6 +20,13 @@ navbar_title: Home
     {% endif %}
 {% endif %}
 
+{% if site.data.display.homepage.show_certifications %}
+    {% assign count_certs = site.certifications | size %}
+    {% if count_certs > 0 %}
+        {% include widgets/certification_card.html limit=site.data.display.homepage.num_certifications %}
+    {% endif %}
+{% endif %}
+
 {% if site.data.display.homepage.show_selected_publications %}
     {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
     {% 
@@ -28,3 +35,5 @@ navbar_title: Home
         title='<i class="fas fa-star"></i> Selected Publications'
     %}
 {% endif %}
+
+
