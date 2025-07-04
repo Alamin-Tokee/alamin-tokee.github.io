@@ -1,21 +1,17 @@
 ---
-title:          "Pharetra Massa Massa Ultricies Mi Nisl Tincidunt"
-date:           2023-01-21 00:01:00 +0800
+title:          "Real time detection and localization of colorectal polyps from colonoscopy images: A deep learning approach"
+date:           2022-01-21 00:01:00 +0800
 selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
-pub_date:       "2023"
+pub:            "IEEE International Women in Engineering (WIE)Conference on Electrical and Computer Engineering (WIECON-ECE)"
+pub_date:       "2022"
 abstract: >-
-  Photo by Dessy Dimcheva on Unsplash. Please keep the description of your publication as brief as possible. 1~2 sentences is ideal. Otherwise, it will look too noisy. This is a <strong>counterexample</strong> to show how the publication will look like when the abstract is too long.
-  The tangerine is a type of citrus fruit that is orange in color, that is considered either a variety of Citrus reticulata, the mandarin orange, or a closely related species, under the name Citrus tangerina, or yet as a hybrid (Citrus × tangerina) of mandarin orange varieties, with some pomelo contribution.
-  According to the Oxford English Dictionary (OED), the word "tangerine" was originally an adjective meaning "Of or pertaining to, or native of Tangier, a seaport in Morocco, on the Strait of Gibraltar" and "a native of Tangier." The name was first used for fruit coming from Tangier, Morocco, described as a mandarin variety. The OED cites this usage from Addison's The Tatler in 1710 with similar uses from the 1800s. The adjective was applied to the fruit, once known scientifically as "Citrus nobilis var. tangeriana" which grew in the region of Tangiers. This usage appears in the 1800s.
+  The growth of malignant colon polyps is a serious threat to both men’s and women’s lives, and image analysis performed during a colonoscopy is the procedure that is utilized the most frequently to test for benign and malignant polyps. Even though colorectal cancer is a major problem on a global scale, the mortality rate can be significantly lowered with the early diagnosis of polyps. This study made use of a model for the early detection of polyps. The model began by gathering data from the Kvasir-SEG dataset, and then proceeded to apply data augmentation techniques in order to boost the effectiveness of the dataset. The data were divided as follows: 80% percent for training and 20% for testing, including 20% of the training data utilized for validation to prevent overfitting. The study examined the dataset with YOLOv5 (You Only Look Once), specifically three variants of the model called YOLOv5s, YOLOv5m, and YOLOv5l. This allowed them to monitor each model’s performance while contrasting the results of the various models.. Results showed that YOLOv5l had the highest average testing IoU of 86.25% compared to the other employed models.
 
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Charles Green (MIT)*
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Md Alamin*
+  - Bikash Kumar Paul*
+  - Nasima Islam Bithi
 links:
   Paper: https://www.biorxiv.org
   Code: https://github.com
