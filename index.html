@@ -23,7 +23,7 @@ navbar_title: Home
 {% if site.data.display.homepage.show_certifications %}
     {% assign count_certs = site.certifications | size %}
     {% if count_certs > 0 %}
-        {% include widgets/certification_card.html limit=site.data.display.homepage.num_certifications %}
+        {% include widgets/certifications_card.html limit=site.data.display.homepage.num_certifications %}
     {% endif %}
 {% endif %}
 
