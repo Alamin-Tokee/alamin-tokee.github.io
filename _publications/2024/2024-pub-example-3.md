@@ -1,6 +1,6 @@
 ---
 title:          "FedX: A Cutting-Edge Hybrid Federated Learning Approach for Parkinson's Disease Diagnosis using Xception"
-date:           2024-05-12 00:01:00 +0800
+date:           2025-05-12 00:01:00 +0800
 selected:       true
 pub:            "Biological Material and Devices"
 # pub_pre:        "Submitted to "
