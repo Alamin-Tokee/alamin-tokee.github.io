@@ -1,7 +1,7 @@
 ---
 title:          "Real time detection and localization of colorectal polyps from colonoscopy images: A deep learning approach"
 date:           2022-01-21 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "IEEE International Women in Engineering (WIE)Conference on Electrical and Computer Engineering (WIECON-ECE)"
 pub_date:       "2022"
 abstract: >-

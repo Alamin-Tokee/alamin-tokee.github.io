@@ -1,7 +1,7 @@
 ---
 title:          "A smart surveillance system to detect modern gun using yolov5 algorithm:A deep learning approach"
 date:           2023-01-05 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "in International Joint Conference on Advances in Computational Intelligence"
 pub_date:       "2023"
 abstract: >-
