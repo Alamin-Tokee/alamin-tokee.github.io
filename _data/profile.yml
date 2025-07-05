@@ -3,10 +3,10 @@ secondary_name: ""
 navbar_name: "Md Al Amin"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/WAL.png  # Logo is optional
   name: Deputy Assistant Director at Walton
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Machine Learning Researcher at DIU
+- logo: /assets/images/badges/DIU.png  # Logo is optional
+  name: Former Research Student at DIU
 
 
 email: "alamin11-593@diu.edu.bd"
@@ -38,39 +38,39 @@ portrait_caption: >-
 
 education:
 - name: Daffodil International University
-  logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/badges/DIU.png
   position: >- 
     Department of Software Engineering <br/>
     Thesis : Colon polys detection using deep learning <br/>
   date: Jan. 2018 - Apr. 2022
 - name: BAF Shaheen School & College, PKP, Tangail
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/WAL.png
   position: Science
   date: Sep. 2015 - Jul. 2017
 - name: Mohanandapur Bijoy Smriti High School, Sakhipur, Tangail
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/DIU.png
   position: Science
   date: Sep. 2010 - Jul. 2015
 
 experience:
 - name: Deputy Assistant Director(SDE-III)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/WAL.png
   position: Walton Hi-Tech Industries PLC, Kaliakair, Gazipur
   date: Jan. 2025 - Now
 - name: Sr. Principal Officer(SDE-II)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/WAL.png
   position: Walton Hi-Tech Industries PLC, Kaliakair, Gazipur
   date: Jan. 2024 - Jan. 2025
 - name: Principal Officer(SDE-I)
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/WAL.png
   position: Walton Hi-Tech Industries PLC, Kaliakair, Gazipur
   date: Sep. 2023 - Jan. 2024
 - name: Software Engineering Apprentice
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/WAL.png
   position: Walton Hi-Tech Industries PLC, Kaliakair, Gazipur
   date: Jan. 2023 - Sep. 2023
 - name: Software Engineering Intern
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/DIU.png
   position: Sheraspece Ltd, Baridhara DOHS, Dhaka
   date: Jun. 2022 - Dec. 2022
 
