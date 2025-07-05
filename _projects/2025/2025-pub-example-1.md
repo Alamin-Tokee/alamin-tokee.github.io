@@ -10,7 +10,7 @@ pub_date:       "2025"
 
 abstract: >-
   Running, Developed a QC system for tracking 1,000+ components per lift project. Enabled R&I teams to initiate and QC teams to verify against predefined criteria. Built real-time dashboards using PHP, JavaScript, jQuery, and AJAX with PostgreSQL backend for efficient QC record management and stakeholder monitoring.
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/cover2.jpg
 authors:
   - Md Alamin*
   - John Doe
