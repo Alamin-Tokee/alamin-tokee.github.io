@@ -34,12 +34,12 @@ short_bio: >-
 
   <p>
   <strong>Skills</strong> <br/>
-  <code>Programming:</code> C/C++, Java, Python, JavaScript, PHP, GoLang <br/>
-  <code>ML & DL:</code> Pandas, Numpy, Sk-Learn, Matplotlib, PyTorch, Keras, Tensorflow <br/>
-  <code>Databases:</code> SQL, MySQL, PostgreSQL, Oracle, MariaDB, MongoDB, Redis <br/>
-  <code>Web Dev:</code> HTML, CSS, Tailwind, Bootstrap, Django, Node, Express, React, React Native, Gin <br/>
-  <code>Tools & Tech:</code> FileZilla, WinScp, DataGrip, Dbeaver, Git, Postman, Linux, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana, AWS, PowerBI <br/>
-  <code>IDE & Misc:</code> Microsoft Visio, Jupyter Notebook, VS Code, Unity Hub, Latex
+  <b>Programming:</b> C/C++, Java, Python, JavaScript, PHP, GoLang <br/>
+  <b>ML & DL:</b> Pandas, Numpy, Sk-Learn, Matplotlib, PyTorch, Keras, Tensorflow <br/>
+  <b>Databases:</b> SQL, MySQL, PostgreSQL, Oracle, MariaDB, MongoDB, Redis <br/>
+  <b>Web Dev:</b> HTML, CSS, Tailwind, Bootstrap, Django, Node, Express, React, React Native, Gin <br/>
+  <b>Tools & Tech:</b> DataGrip, Dbeaver, Git, Postman, Linux, Docker, Kubernetes, Terraform, Jenkins, Ansible, Prometheus, Grafana, AWS, PowerBI <br/>
+  <b>IDE & Misc:</b> Microsoft Visio, Jupyter Notebook, VS Code, Unity Hub, Latex
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
