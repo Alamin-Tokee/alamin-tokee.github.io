@@ -8,16 +8,7 @@ date: 2024-01-12 00:01:00 +0800
     <h2>Welcome to Showcase!</h2>
     <hr />
     <p>
-        <code>Showcase</code> is a page where you can show off almost anything you want. It can be the photo of your pets, your favorite books, your favorite projects, or anything else you want to show to the world.
+        I'm a passionate and driven individual who finds purpose in continuous growth—both personally and professionally. When I'm not working on tech or academic projects, I love engaging in activities that fuel my creativity and curiosity. Playing football keeps me active and disciplined, reading books helps me expand my understanding of the world, and traveling allows me to experience life through different cultures and perspectives. These personal interests shape how I approach challenges—with energy, empathy, and an open mind. I believe that balance in life brings out the best in people, and I’m always eager to learn something new, connect with others, and create meaningful impact.
     </p>
-    <p>
-        You can create a new showcase item by creating a new file in the <code>_showcase</code> folder. It gives you the highest flexibility to customize the item using any HTML code.
-    </p>
-    <p>
-        Cards are ordered by the <code>date</code> field in the front matter in descending order. The <code>width</code> field is used to determine the width of the card, ranging from 1 to 12.
-        Layout is done by the <a href="https://masonry.desandro.com/" target="_blank">Masonry</a> library.
-    </p>
-    <p>
-        For a tidy layout, it is recommended to set the width of the cards to be either multiple of 3 or multiple of 4 for all cards, except for small badges that do not take up much space (width=1).
-    </p>
+    
 </div>
