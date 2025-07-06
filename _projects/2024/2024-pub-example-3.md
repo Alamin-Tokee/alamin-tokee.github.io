@@ -10,7 +10,7 @@ pub_date:       "2024"
 
 abstract: >-
   Designed a data acquisition system using a SingleBoard Computer (SBC) and Python to monitor ultrasonic welding machines in real-time. Storedperformance metrics in MySQL. Built a React Native mobile app for operator time logging andintegrated it with machine data to calculate shift-wise performance and efficiency. Developed aresponsive dashboard using NodeJS, ReactJS, and Redux to visualize KPIs and machine health.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/weld_mac.jpg
 authors:
   - Md Alamin*
   - John Doe
