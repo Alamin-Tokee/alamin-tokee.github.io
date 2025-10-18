@@ -13,7 +13,7 @@ abstract: >-
 cover:          /assets/images/covers/cover3.webp
 authors:
   - Anik Dev Nath*
-  - Md Al Amin
+  - Md Al Amin*
   - Sajib Dip Acharjee Dip
   - Mahjebin Jerin
   - Bikash Kumar Paul
