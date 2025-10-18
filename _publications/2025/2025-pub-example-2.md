@@ -19,6 +19,6 @@ authors:
   - Bikash Kumar Paul
   - Touhid Bhuiyan
 links:
-  Code: https://github.com/luost26/academic-homepage
+  Code: https://github.com/Alamin-Tokee
   Paper: https://www.biorxiv.org
 ---

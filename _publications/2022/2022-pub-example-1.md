@@ -17,7 +17,7 @@ authors:
   - Nasima Islam Bithi
   - Bikash Kumar Paul
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
+  Code: https://github.com/Alamin-Tokee
   Paper: https://www.biorxiv.org
   # Demo: https://luost26.github.io/bubble-visual-hash
 ---

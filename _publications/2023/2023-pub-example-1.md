@@ -13,6 +13,6 @@ authors:
 - John Doe
 - Charles Green
 links:
-  Code: https://www.biorxiv.org
+  Code: https://github.com/Alamin-Tokee
   Paper: https://www.cell.com
 ---

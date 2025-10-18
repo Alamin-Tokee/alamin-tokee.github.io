@@ -13,7 +13,7 @@ authors:
   - Bikash Kumar Paul*
   - Nasima Islam Bithi
 links:
-  Code: https://github.com
+  Code: https://github.com/Alamin-Tokee
   Paper: https://www.biorxiv.org
   # Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
