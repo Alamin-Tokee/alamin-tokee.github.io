@@ -1,6 +1,6 @@
 ---
 title:          "GastroGT: Gastric cancer gene interaction subtype recognition from gene expression with transformer based classification"
-date:           2025-10-14 00:01:00 +0800
+date:           2025-10-01 00:01:00 +0800
 selected:       true
 #pub:            "Biological Material and Devices"
 pub_pre:        "Submitted to "
