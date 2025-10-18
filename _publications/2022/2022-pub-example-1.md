@@ -18,5 +18,6 @@ authors:
   - Bikash Kumar Paul
 links:
   Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Paper: https://www.biorxiv.org
+  # Demo: https://luost26.github.io/bubble-visual-hash
 ---
