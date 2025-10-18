@@ -15,7 +15,7 @@ authors:
   - Md Alamin*
   - Bikash Kumar Paul
   - Rafid Mostafiz
-  - Dip Acharjee
+  - Sajib Acharjee Dip
   - Zahid Ontor
 links:
   Code: https://github.com/luost26/academic-homepage

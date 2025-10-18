@@ -1,6 +1,6 @@
 ---
 title:          "Spatial Prediction of Soil Microplastics and Organic Matter Using Graph Attention Networks"
-date:           2025-10-12 00:01:00 +0800
+date:           2025-10-01 00:01:00 +0800
 selected:       true
 #pub:            "Biological Material and Devices"
 pub_pre:        "Submitted to "
