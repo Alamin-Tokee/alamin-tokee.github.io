@@ -11,7 +11,7 @@ pub_date:       "2026"
 abstract: >-
   Federated Learning (FL) enables collaborative training without sharing raw data, but remains vulnerable to privacy leakage, secure aggregation failure under client dropout, and future quantum attacks. In this paper, we propose a Quantum-Resilient Secure Aggregation with Threshold Recovery (QR-SATR) framework that integrates post-quantum cryptography and threshold secret sharing to ensure robust and privacy-preserving aggregation.
 
-cover:          /assets/images/covers/cs_research_1.png
+cover:          /assets/images/covers/cs_research_1.jpg
 authors:
   - Md Al Amin*
   - Anik Dev Nath
